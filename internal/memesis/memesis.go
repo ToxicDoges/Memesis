@@ -1,5 +1,6 @@
 package memesis
 
+
 type MemesisCoreService struct {
 }
 
